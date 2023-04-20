@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom {
+    background-color: #F5F5F5;
+}
+.bg-custom1{
+    background-color: #DDEFE0;
+}
+.bg-custom2{
+    background-color: #F4ECDD;
+}
+.bg-custom3{
+    background-color: #EFDADA;
+}
+.bg-custom4{
+    background-color: #DEE0EF;
+}
+.bg-custom5{
+    background-color: #DDDDDD;
+}
+.items-half-center {
+    align-items: center;
+    transform: translateY(-50%);
+}
+
+.text-custom-gray {
+    color: #858585;
+}
+.text-custom-blue {
+    color: #346BD4;
+}
+.rounded-10 {
+    border-radius: 10px;
+}
+.rounded-20 {
+    border-radius: 20px;
+}
+.rounded-30{
+    border-radius: 30px;
+}
+.h-30{
+    height: 100px;
+}
+.mt-40 {
+    margin-top: 12.5rem
+}
+.ml-40 {
+    margin-left: 30rem;
+}
